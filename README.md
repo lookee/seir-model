@@ -1,6 +1,6 @@
 **Modeling How Infectious Diseases like Coronavirus Spread**
 
-Luca Amore
+[Luca Amore](https://www.lucaamore.com)
 
 [OPEN NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
 
