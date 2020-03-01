@@ -17,6 +17,7 @@ Based on the article:
 by Jennifer Ciarochi
 
 **References**
+
 [Jennifer Ciarochi, 2020. "Modeling How Infectious Diseases like Coronavirus Spread"](https://triplebyte.com/blog/modeling-infectious-diseases)
 
 [Blackwood, Julie C., and Lauren M. Childs. 2018. “An Introduction to Compartmental Modeling for the Budding Infectious Disease Modeler.”](https://www.tandfonline.com/doi/full/10.1080/23737867.2018.1509026)
