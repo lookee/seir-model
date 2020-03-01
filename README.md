@@ -12,10 +12,6 @@ The SEIR model can be schematically represented by:
 
 ![SEIR](https://github.com/lookee/seir-model/blob/master/img/SEIR_block_model.png?raw=true)
 
-Based on the article:
-[Modeling How Infectious Diseases like Coronavirus Spread](https://triplebyte.com/blog/modeling-infectious-diseases)
-by Jennifer Ciarochi
-
 **References**
 
 [Jennifer Ciarochi, 2020. "Modeling How Infectious Diseases like Coronavirus Spread"](https://triplebyte.com/blog/modeling-infectious-diseases)
