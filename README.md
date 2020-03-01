@@ -2,7 +2,7 @@
 
 [Luca Amore](https://www.lucaamore.com)
 
-[OPEN NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
+[notebook](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
 
 ![COVID-19](https://github.com/lookee/seir-model/blob/master/img/virus.jpg?raw=true)
 
