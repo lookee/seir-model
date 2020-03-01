@@ -1,4 +1,4 @@
-**Modeling How Infectious Diseases like Coronavirus Spread**
+**Virus Spread Simulator Construction Kit**
 
 [Luca Amore](https://www.lucaamore.com)
 
