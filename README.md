@@ -2,15 +2,20 @@
 
 [Luca Amore](https://www.lucaamore.com)
 
-[notebook](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
-
 ![COVID-19](https://github.com/lookee/seir-model/blob/master/img/virus.jpg?raw=true)
 
-**Compartmental Modeling of Viruses**
+
+**SEIR MODELS**
 
 The SEIR model can be schematically represented by:
 
 ![SEIR](https://github.com/lookee/seir-model/blob/master/img/SEIR_block_model.png?raw=true)
+
+[SEIR NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
+
+**Malaria**
+
+[MALARIA NOTEBOOK](https://github.com/lookee/seir-model/blob/master/malaria_model.ipynb)
 
 **References**
 
