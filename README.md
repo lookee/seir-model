@@ -2,6 +2,8 @@
 
 Luca Amore
 
+[NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
+
 ![COVID-19](https://github.com/lookee/seir-model/blob/master/covid-19.jpg?raw=true)
 
 **Compartmental Modeling of Viruses**
