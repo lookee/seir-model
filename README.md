@@ -17,9 +17,14 @@ Based on the article:
 by Jennifer Ciarochi
 
 **References**
+[Jennifer Ciarochi, 2020. "Modeling How Infectious Diseases like Coronavirus Spread"](https://triplebyte.com/blog/modeling-infectious-diseases)
+
+[Blackwood, Julie C., and Lauren M. Childs. 2018. “An Introduction to Compartmental Modeling for the Budding Infectious Disease Modeler.”](https://www.tandfonline.com/doi/full/10.1080/23737867.2018.1509026)
+
+[Desai, Rishi. n.d. “Understanding R Nought.” Khan Academy](https://www.khanacademy.org/science/health-and-medicine/current-issues-in-health-and-medicine/ebola-outbreak/v/understanding-r-nought?modal=1)
 
 [Simulate HIV Infection](https://apmonitor.com/pdc/index.php/Main/SimulateHIV)
 
 [Simulate Coupled Differential Equations in Python](https://youtu.be/zRMmiBMjP9o)
 
-[Differential Equation in Action](https://www.udacity.com/course/differential-equations-in-action--cs222)
+[Differential Equation in Action. Udacity Course](https://www.udacity.com/course/differential-equations-in-action--cs222)
