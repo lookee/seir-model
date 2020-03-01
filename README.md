@@ -4,13 +4,13 @@ Luca Amore
 
 [NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
 
-![COVID-19](e)
+![COVID-19](https://github.com/lookee/seir-model/blob/master/img/virus.jpg?raw=true)
 
 **Compartmental Modeling of Viruses**
 
 The SEIR model can be schematically represented by:
 
-![SEIR](https://github.com/lookee/seir-model/blob/master/img/virus.jpg?raw=true)
+![SEIR](https://github.com/lookee/seir-model/blob/master/img/SEIR_block_model.jpg?raw=true)
 
 Based on the article:
 [Modeling How Infectious Diseases like Coronavirus Spread](https://triplebyte.com/blog/modeling-infectious-diseases)
