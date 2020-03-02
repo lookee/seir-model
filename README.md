@@ -13,7 +13,7 @@ The SEIR model can be schematically represented by:
 
 [SEIR NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
 
-**Malaria**
+**MALARIA**
 
 [MALARIA NOTEBOOK](https://github.com/lookee/seir-model/blob/master/malaria_model.ipynb)
 
