@@ -5,8 +5,12 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)]()
 [![License: GPL v3](https://img.shields.io/badge/license-GPLv3-green.svg)]()
 
+<<<<<<< HEAD
 [Luca Amore](https://www.lucaamore.com)  
 [Blog post about this project](https://www.lucaamore.com/?p=1023)
+=======
+![COVID-19](https://github.com/lookee/seir-model/blob/master/img/seir-simulation-luke.png?raw=true)
+>>>>>>> 62c72cb7cd4735afb9cbcb66dfa21f1fdb2d4273
 
 ![COVID-19](https://github.com/lookee/seir-model/blob/master/img/seir-simulation-luke.png?raw=true)
 
