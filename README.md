@@ -54,6 +54,17 @@ You can run and modify the simulation here:
 
 👉 **[SEIR NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)**
 
+### Toy Virus baseline
+
+Think of the **Toy Virus** example as the minimal working virus used to illustrate every modeling concept before layering in real-world complications.
+
+The **Toy Virus** example is a stripped-down SEIR instance that behaves like a generic respiratory pathogen:
+- constant population, homogeneous mixing, fixed incubation and recovery windows  
+- time-invariant transmission rate so you can see the classical epidemic curve without policy noise  
+- compact parameter dictionary (`beta`, `sigma`, `gamma`) exposed at the top of the notebook for instant experimentation
+
+Use it as a blank canvas: start from these neutral settings, then progressively enrich the model with vaccination, seasonality, hospitalization, or age structure. The toy virus keeps the math understandable while still providing code scaffolding (ODE solver, plotting helpers, diagnostics) that transfers directly to more realistic pathogens.
+
 ---
 
 ## **COVID-19 (Metropolitan Milan)**
@@ -109,4 +120,3 @@ Alternatively, you can open the notebooks directly in Google Colab for a more in
 [Simulate Coupled Differential Equations in Python](https://youtu.be/zRMmiBMjP9o)
 
 [Differential Equation in Action. Udacity Course](https://www.udacity.com/course/differential-equations-in-action--cs222)
-
