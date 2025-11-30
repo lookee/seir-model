@@ -19,7 +19,7 @@ Extended SEIR model with asymptomatic and symptomatic branches, hospitalizations
 
 [COVID-19 NOTEBOOK](https://github.com/lookee/seir-model/blob/master/covid19_model.ipynb)
 
-![COVID-19 MODEL](https://github.com/lookee/seir-model/blob/master/img/covid-model.png?raw=true)
+![COVID-19 MODEL](https://github.com/lookee/seir-model/blob/master/img/covid19-model.png?raw=true)
 
 **MALARIA**
 
