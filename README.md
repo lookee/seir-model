@@ -13,6 +13,12 @@ The SEIR model can be schematically represented by:
 
 [SEIR NOTEBOOK](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)
 
+**COVID-19 (Metropolitan Milan)**
+
+Extended SEIR model with asymptomatic and symptomatic branches, hospitalizations, deaths, NPIs, and vaccinations calibrated on the Metropolitan City of Milan (~3.2M inhabitants).
+
+[COVID-19 NOTEBOOK](https://github.com/lookee/seir-model/blob/master/covid19_model.ipynb)
+
 **MALARIA**
 
 [MALARIA NOTEBOOK](https://github.com/lookee/seir-model/blob/master/malaria_model.ipynb)
