@@ -2,7 +2,7 @@
 
 [Luca Amore](https://www.lucaamore.com)
 
-![COVID-19](https://github.com/lookee/seir-model/blob/master/img/virus.jpg?raw=true)
+![COVID-19](https://github.com/lookee/seir-model/blob/master/img/seir-simulation-luke.png?raw=true)
 
 
 **SEIR MODELS**
