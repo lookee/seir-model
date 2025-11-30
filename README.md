@@ -71,6 +71,8 @@ You can run and modify the simulation here:
 
 👉 **[SEIR NOTEBOOK - TOY VIRUS](https://github.com/lookee/seir-model/blob/master/SEIR_model.ipynb)**
 
+![COVID-19](https://github.com/lookee/seir-model/blob/master/img/toy-virus.png?raw=true)
+
 ---
 
 ## **COVID-19 (Metropolitan Milan)**
@@ -111,6 +113,8 @@ jupyter notebook
 ```
 
 Alternatively, you can open the notebooks directly in Google Colab for a more interactive experience. Enjoy experimenting with the models!
+
+![Laboratory](https://github.com/lookee/seir-model/raw/master/img/model_secret_laboratory.png?raw=true)
 
 ---
 ## 📚 References
