@@ -58,14 +58,12 @@ Think of the Toy Virus example as the minimal working virus used to illustrate e
 
 ![Block Model of a Simple Virus](https://github.com/lookee/seir-model/blob/master/img/SEIR_example_block_model.png?raw=true)
 
-$$
-\begin{cases}
+$$\begin{cases}
 \frac{\partial s(t)}{\partial t} = -\lambda s(t)i(t) \\
 \frac{\partial e(t)}{\partial t} = \lambda s(t)i(t) - \frac{e(t)} {\xi} \\
 \frac{\partial i(t)}{\partial t} = \frac{h} {\xi} e(t) -\frac{i(t)} {\mu}  \\
 \frac{\partial r(t)}{\partial t} = \frac{h} {\mu} i(t) \\
-\end{cases}
-$$
+\end{cases}$$
 
 You can run and modify the simulation here:
 
